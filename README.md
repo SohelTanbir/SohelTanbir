@@ -1,16 +1,23 @@
-### Welcome to my profile 👋
+### Hi there 👋, My Name is Sohel Rana
+#### Web Developer
+![Web Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/75643595_2198194680473838_6841331437317128192_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=19026a&_nc_ohc=FDzRNWjHu34AX_F_yk7&_nc_ht=scontent.fdac99-1.fna&oh=45564dac7b12f0f5a0ffa77c7b9e0b32&oe=6152AE7C)
 
-<!--
-**SohelTanbir/SohelTanbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am a Creative Web Developer. I have been working with web design and development for more than three years. In this time I have completed many Website projects. like as MobileCare, Doctor portal, travel-agency online Ticket booking,(E-commerce website) Calculator app, Timer app, and many more. My Expertise on HTML , CSS, Javascript, React js ,Bootstrap, Node js, Express Js,MongoDB etc.I am also familiar with PHP and MySQL.I have done one project using PHP and MySQL Database called Student Result Management System.
 
-Here are some ideas to get you started:
+Skills: JavaScript / REACT /Bootstrap/Material UI/ MongoDB/Nodejs/ HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Node js/ Express js 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Design and Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SohelTanbir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohelrana515/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC7EwL5BYEXw23luTius-Wjg/featured)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sohelrana.netlify.app/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohelTanbir)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SohelTanbir&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SohelTanbir)  
+
+![Profile views](https://gpvc.arturio.dev/SohelTanbir)  
