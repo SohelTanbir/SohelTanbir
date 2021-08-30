@@ -1,14 +1,14 @@
 # My Name is Sohel Rana
-### Web Developer
+## Web Developer
 ![Web Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/75643595_2198194680473838_6841331437317128192_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=19026a&_nc_ohc=FDzRNWjHu34AX_F_yk7&_nc_ht=scontent.fdac99-1.fna&oh=45564dac7b12f0f5a0ffa77c7b9e0b32&oe=6152AE7C)
 
 Hello, I am a Creative Web Developer. I have been working with web design and development for more than three years. In this time I have completed many Website projects. like as MobileCare, Doctor portal, travel-agency online Ticket booking,(E-commerce website) Calculator app, Timer app, and many more. My Expertise on HTML , CSS, Javascript, React js ,Bootstrap, Node js, Express Js,MongoDB etc.I am also familiar with PHP and MySQL.I have done one project using PHP and MySQL Database called Student Result Management System.
 
-Skills: JavaScript / REACT /Bootstrap/Material UI/ MongoDB/Nodejs/ HTML / CSS
+Skills: JavaScript / REACT /Bootstrap/Material UI/ MongoDB/Nodejs/Express js/ HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Web Design and Development 
 - 🌱 I’m currently learning Node js/ Express js 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Design and Development 
 
 
