@@ -12,7 +12,7 @@ Skills: JavaScript / REACT /Bootstrap/Material UI/ MongoDB/Nodejs/Express js/ HT
 - 💬 Ask me about Web Design and Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SohelTanbir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohelrana515/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC7EwL5BYEXw23luTius-Wjg/featured)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sohelrana.netlify.app/)  
+[<img src='https://drive.google.com/file/d/1ZkLd6WeSf7MBKsP8BM72chYmK16E9Ys6/view?usp=sharing' alt='github' height='40'>](https://github.com/SohelTanbir)  [<img src='https://drive.google.com/file/d/1ZkLd6WeSf7MBKsP8BM72chYmK16E9Ys6/view?usp=sharing' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohelrana515/)  [<img src='https://drive.google.com/file/d/1ZkLd6WeSf7MBKsP8BM72chYmK16E9Ys6/view?usp=sharing' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC7EwL5BYEXw23luTius-Wjg/featured)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sohelrana.netlify.app/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohelTanbir)](https://github.com/anuraghazra/github-readme-stats)
 
