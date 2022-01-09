@@ -1,4 +1,4 @@
-# My Name is Sohel Rana
+# Sohel Rana
 ## Web Developer
 ![ Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/75643595_2198194680473838_6841331437317128192_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=19026a&_nc_ohc=FDzRNWjHu34AX_F_yk7&_nc_ht=scontent.fdac99-1.fna&oh=45564dac7b12f0f5a0ffa77c7b9e0b32&oe=6152AE7C)
 
