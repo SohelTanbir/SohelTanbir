@@ -7,7 +7,7 @@ I love to learn New Technology and implement on projects.
 
 
 - 🔭 I’m currently working on Web Design and Development 
-- 🌱 I’m currently learning Node js/ Express js 
+- 🌱 I’m currently learning MERN(MongoDB, Express, React and Node js) Stack Development
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Design and Development 
 
