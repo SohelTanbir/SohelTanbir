@@ -1,8 +1,8 @@
 # Sohel Rana
-## MERN || Junior Web Developer
+## MERN || Web Developer
 ![ Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/75643595_2198194680473838_6841331437317128192_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=19026a&_nc_ohc=FDzRNWjHu34AX_F_yk7&_nc_ht=scontent.fdac99-1.fna&oh=45564dac7b12f0f5a0ffa77c7b9e0b32&oe=6152AE7C)
 
-Hello, I am a Creative Web Developer. I have been working with web design and development for more than three years. In this time I have completed many Website projects. like Al Qurean, Freelancer Marketplace app,  MobileCare, Doctor portal, travel-agency online Ticket booking,(E-commerce website) Calculator app, Timer app, Color Picker App, and many more. My Expertise in HTML, CSS, Javascript, React js, Bootstrap, Tailwind CSS Node js, Express Js,MongoDB etc.
+Hello, I am a Creative Web Developer. I have worked with web design and development for over three years. In this time I have completed many Website projects. like Al Qurean, Freelancer Marketplace app,  MobileCare, Doctor portal, travel-agency online Ticket booking,(E-commerce website) Calculator app, Timer app, Color Picker App, and many more. My Expertise in HTML, CSS, Javascript, React js, Bootstrap, Tailwind CSS Node js, Express Js, MongoDB etc.
 I love to learn New Technology and implement it on projects.
 
 
