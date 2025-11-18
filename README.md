@@ -2,8 +2,27 @@
 ## MERN || Web Developer
 ![ Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/75643595_2198194680473838_6841331437317128192_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=19026a&_nc_ohc=FDzRNWjHu34AX_F_yk7&_nc_ht=scontent.fdac99-1.fna&oh=45564dac7b12f0f5a0ffa77c7b9e0b32&oe=6152AE7C)
 
-Hello, I am a Creative Web Developer. I have worked with web design and development for over three years. In this time I have completed many Website projects. like Al Qurean, Freelancer Marketplace app,  MobileCare, Doctor portal, travel-agency online Ticket booking,(E-commerce website) Calculator app, Timer app, Color Picker App, and many more. My Expertise in HTML, CSS, Javascript, React js, Bootstrap, Tailwind CSS Node js, Express Js, MongoDB etc.
-I love to learn New Technology and implement it on projects.
+Hi, I'm Sohel Rana — a Frontend Developer focused on the MERN stack.
+
+I build responsive, scalable web apps using React.js, Next.js, Redux Toolkit, and Tailwind CSS. I optimize APIs with RTK Query and add real-time features using WebSocket.
+
+For engaging UI/UX, I use Framer Motion and GSAP to create smooth, interactive animations.
+
+I’m always learning, applying new technologies, and working toward becoming an expert Software Engineer.
+
+Key Skills:
+
+Frontend: React.js (Hooks, Context), Next.js (App Router, SSR/CSR), Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+), jQuery
+
+State & Data: Redux Toolkit, RTK Query
+
+Real-time: WebSocket / Socket.io
+
+Animations: Framer Motion, GSAP
+
+Backend: Node.js, Express, MongoDB
+
+Tools: Git, GitHub, VS Code, Chrome DevTools
 
 
 - 🔭 I’m currently working on Web Design and Development 
