@@ -21,9 +21,9 @@ I’m always learning, applying new technologies, and working toward becoming an
 ---
 
 ### 🌐 Social Links  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="16" alt="LinkedIn">](https://www.linkedin.com/in/sohelrana515/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" height="20" alt="YouTube">](https://youtube.com/@srsoftwareacademy9620)
-[<img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="20" alt="Website">](https://sohelrana.netlify.app/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="18" alt="LinkedIn">](https://www.linkedin.com/in/sohelrana515/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" height="22" alt="YouTube">](https://youtube.com/@srsoftwareacademy9620)
+[<img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="22" alt="Website">](https://sohelrana.netlify.app/)
 
 
 
